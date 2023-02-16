@@ -1,0 +1,4 @@
+pip==23.0
+setuptools==67.3.1
+pytest
+black[d]
